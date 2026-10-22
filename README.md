@@ -6,7 +6,6 @@ A full-stack e-commerce web application built with the MERN stack. Users can bro
 **Backend API:** [https://market-hub-backend.vercel.app
 ```]
 
-## Features
 
 ### User
 - Register and log in securely (JWT authentication, passwords hashed with bcrypt)
@@ -100,7 +99,8 @@ npm run dev
 ![orderPage](client/my-project/screenshot/orderPage.jpg)
 ![orders](client/my-project/screenshot/orders.jpg)
 ![loginpage](client/my-project/screenshot/loginpage.jpg)
-## Author
 
+
+## Author
 **Zeenat Shafqaat**
 [LinkedIn](https://www.linkedin.com/in/zeenat-shafqaat/) · [GitHub](https://github.com/zeenat2026/Market-Hub)
