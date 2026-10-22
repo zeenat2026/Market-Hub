@@ -104,3 +104,6 @@ npm run dev
 ## Author
 **Zeenat Shafqaat**
 [LinkedIn](https://www.linkedin.com/in/zeenat-shafqaat/) · [GitHub](https://github.com/zeenat2026/Market-Hub)
+
+
+First request may take a few seconds to wake up the server.
