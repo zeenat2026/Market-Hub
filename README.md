@@ -2,7 +2,7 @@
 
 A full-stack e-commerce web application built with the MERN stack. Users can browse products, manage a shopping cart, place orders and cancel them, while admins get access to protected management features. Authentication is handled with JWT, and access is controlled through user and admin roles.
 
-**Live Demo:** [add your frontend link here]
+**Live Demo:** [https://market-hub-frontend-zeta.vercel.app/]
 **Backend API:** [https://market-hub-backend.vercel.app
 ```]
 
